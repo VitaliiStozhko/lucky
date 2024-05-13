@@ -1,0 +1,45 @@
+  h1 {
+    color: #643b11;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .h1big{
+    color: #33330a;
+    font-size: 72px;
+  }
+  h2{
+    color: black;
+  }
+  h3{
+    color: red;
+  }
+  .priklad{
+    color: red;
+  }
+  img{
+size-adjust: 300px;
+  }
+  p{
+    font-size: larger;
+  }
+    body {
+      width: 300px;
+      border: 5px solid green;
+      padding: 50px;
+      margin: 20px;
+      border-radius: 16px;
+    }
+    button{
+      display: inline;
+      width: 200px;
+      border: 5px solid rgb(158, 182, 233);
+      padding: 50px;
+      margin: 20px;
+      text-align: center;
+      text-decoration: none;
+    font-style: inherit;
+    border-radius: 16px;
+    }
+    b{
+  color: rgb(44, 147, 238);
+  font-size: large;
+    }
